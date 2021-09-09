@@ -1,0 +1,5 @@
+git hub on oline platvorm koodi kirjutamiseks ja märkmiku pidamiseks
+seda enamasti kasutavad kodeeriad
+
+mina saan git hub-i kasutada märmikuna teistes ainetes
+git hub-i saan ka kasutada andmepaaside haldus tunnis koodi kirjutamiseks
