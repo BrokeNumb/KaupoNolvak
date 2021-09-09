@@ -3,3 +3,5 @@ seda enamasti kasutavad kodeeriad
 
 mina saan git hub-i kasutada märmikuna teistes ainetes
 git hub-i saan ka kasutada andmepaaside haldus tunnis koodi kirjutamiseks
+
+git hub loodi aastal 2008, Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon poolt.
