@@ -1,0 +1,2 @@
+# KaupoNolvak
+versiooni halduse harjutamine
